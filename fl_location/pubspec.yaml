@@ -15,8 +15,11 @@ dependencies:
       url: https://github.com/lmk378/flutter_location.git
       path: fl_location_platform_interface
       ref: master
-    version: "^3.0.0"
-  fl_location_web: ^3.0.0
+  fl_location_web:
+    git: 
+      url: https://github.com/lmk378/flutter_location.git
+      path: fl_location_web
+      ref: master
 
 dev_dependencies:
   flutter_test:
