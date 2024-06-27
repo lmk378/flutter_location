@@ -83,7 +83,6 @@ class Location {
       'speed': speed,
       'speedAccuracy': speedAccuracy,
       'millisecondsSinceEpoch': millisecondsSinceEpoch,
-      'timestamp': timestamp,
       'isMock': isMock,
     };
   }
